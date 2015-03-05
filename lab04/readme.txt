@@ -1,3 +1,16 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+5 Something extra 
+5 Respond to switch
+5 ReadMe.txt    - Please list each file you want me to look at and note what each does.
+5 Not late
+
+
+Grade: 25/25
+
+=======================================
+
 To: Mark A Yoder
 From: Rajat Valecha
 Roll No.: B13220

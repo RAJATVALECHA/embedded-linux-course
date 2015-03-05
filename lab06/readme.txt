@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 1 - Please write your own ReadMe - Encoder doesn't work at all like the joystick
+# Code       10 - Code looks like others code
+
+
+Grade:  16/25
+
+================================================
+
+
 To: Mark A Yoder
 From: Rajat Valecha
 Roll No.: B13220
