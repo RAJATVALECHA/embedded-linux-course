@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+0 blinkled.js - missing
+5 input.js
+0 some variation
+5 ReadMe.txt
+5 Not late
+
+Grade:  15/25
+
+========================================
+
 To: Mark A Yoder
 From: Rajat Valecha
 Roll No: B13220
