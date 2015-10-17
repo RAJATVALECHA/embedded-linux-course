@@ -1,0 +1,15 @@
+To: Mark A Yoder
+From: Rajat Valecha
+Roll No.: B13220
+Date: 10th October, 2015
+Subject: Homework 03 Submission
+
+
+
+The purpose of Homework 3 is to come up with at least 3 project ideas related to BeagleBone, Arduino and similar devices.
+	
+1)Smart Home-- idea is to make fully automated room or something, where everything as controlled remotely and using embedded systems.Like for door, we can use automatic door opener, on the signal given by the owner,which can be done by infrared rays or even some other magnetic tools where then wireless communication can be accieved using internet mode easily.
+
+2)Electronic Voting Machine (EVM)  It will accepts person's fingerprint for voting which will ofcourse be more authentic then the existing modes of EVM's.it can also be added with som other features like live counting and on spot message delivery on voters mobile.
+
+3)Automatic room cleaner--It will use ultrasonic or similar sensors to get the information about the obstacles, and then programme can be made to react accordingly, and clean the room using vacuum cleaner or something like that.
